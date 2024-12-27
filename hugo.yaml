@@ -1,4 +1,4 @@
-baseurl: https://zlbit.github.io
+baseurl: https://zlbit.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 2
