@@ -2,94 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zlbit.github.io//en/categories/</loc>
+    <loc>https://example.com/en/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//categories/"
+                href="https://example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/categories/"
+                href="https://example.com/en/categories/"
                 />
   </url><url>
-    <loc>https://zlbit.github.io//en/p/test-chinese/</loc>
+    <loc>https://example.com/en/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//p/test-chinese/"
+                href="https://example.com/p/test-chinese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/p/test-chinese/"
+                href="https://example.com/en/p/test-chinese/"
                 />
   </url><url>
-    <loc>https://zlbit.github.io//en/</loc>
+    <loc>https://example.com/en/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/"
+                href="https://example.com/en/"
                 />
   </url><url>
-    <loc>https://zlbit.github.io//en/post/</loc>
+    <loc>https://example.com/en/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//post/"
+                href="https://example.com/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/post/"
+                href="https://example.com/en/post/"
                 />
   </url><url>
-    <loc>https://zlbit.github.io//en/categories/test/</loc>
+    <loc>https://example.com/en/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//categories/test/"
+                href="https://example.com/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/categories/test/"
+                href="https://example.com/en/categories/test/"
                 />
   </url><url>
-    <loc>https://zlbit.github.io//en/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://example.com/en/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//categories/%E6%B5%8B%E8%AF%95/"
+                href="https://example.com/categories/%E6%B5%8B%E8%AF%95/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/categories/%E6%B5%8B%E8%AF%95/"
+                href="https://example.com/en/categories/%E6%B5%8B%E8%AF%95/"
                 />
   </url><url>
-    <loc>https://zlbit.github.io//en/tags/</loc>
+    <loc>https://example.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zlbit.github.io//tags/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zlbit.github.io//en/tags/"
+                href="https://example.com/en/tags/"
                 />
   </url>
 </urlset>
